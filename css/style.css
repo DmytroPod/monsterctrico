@@ -45,13 +45,13 @@ header {
   font-size: 1em;
   background-color: #cdcfd9;
   color: #fff;
-  /* box-shadow: 2px 2px 2px #3e9b2480, 10px 1px 12px #aea7a780,
+  /* box-shadow: 2px 2px 2px #3e9b2480, 10px 1px 12px #3e9b2480,
     2px 2px 10px #3e9b2480, 2px 2px 3px #3e9b2480, inset 2px 2px 10px #3e9b2480,
     inset 2px 2px 10px #3e9b2480, inset 2px 2px 10px #3e9b2480,
     inset 2px 2px 10px #3e9b2480; */
 
-  box-shadow: 2px 2px 2px #3e9b2480, 10px 1px 12px #aea7a780,
-    2px 2px 10px #3e9b2480, 2px 2px 3px #3e9b2480, inset 2px 2px 10px #3e9b2480,
+  box-shadow: 2px 2px 2px #04400549, 10px 1px 12px #05f60980,
+    2px 2px 10px #05f60980, 2px 2px 3px #05f60980, inset 2px 2px 10px #3e9b2480,
     inset 2px 2px 10px #3e9b2480, inset 2px 2px 10px #3e9b2480,
     inset 2px 2px 10px #3e9b2480;
 
@@ -70,7 +70,7 @@ header {
   animation-delay: 0.7s;
 }
 #link_3 {
-  animation-delay: 0.3s;
+  animation-delay: 1s;
 }
 @keyframes animate {
   from {
