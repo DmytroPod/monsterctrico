@@ -64,13 +64,16 @@ header {
   animation-delay: 0.3s;
 }
 #link_2 {
-  animation-delay: 0.3s;
+  animation-delay: 0.4s;
 }
 #link_4 {
-  animation-delay: 0.7s;
+  animation-delay: 0.8s;
 }
 #link_3 {
-  animation-delay: 1s;
+  animation-delay: 0.6s;
+}
+#link_1 {
+  animation-delay: 0.2s;
 }
 @keyframes animate {
   from {
